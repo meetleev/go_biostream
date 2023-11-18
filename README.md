@@ -1,1 +1,1 @@
-# golang_biostream
+# golang_bitstream
